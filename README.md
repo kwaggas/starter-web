@@ -19,3 +19,4 @@ This is a simple web project, deployment can be on any web server or enven local
 ### Copyright
 
 Git Training
+Corne Vermeulen
