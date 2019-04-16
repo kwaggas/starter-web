@@ -22,3 +22,4 @@ Please fork this repository and then issue Pull Requests for review.
 Git Training
 Corne Vermeulen
 2019
+All rights reserved.
